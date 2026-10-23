@@ -6,6 +6,7 @@ public class BleuStudent : MonoBehaviour
     void Start()
     {
         //Modification Bleu Student
+        //Modification Red Student
 
     }
 
